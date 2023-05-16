@@ -1,7 +1,7 @@
 
 body{
 
-    background-image:url(img/foto\ fundo.jpeg);
+    background-image:url(img/fundo1.jpeg);
     background-size: 100%;
 }
 
@@ -74,7 +74,8 @@ padding: 14px;
 
 figcaption{
 text-align:center;
-font-family: 'THE AMAZING SPIDER-MAN', sans-serif;                                           
+font-family: 'font-family: 'Rounds Black', sans-serif
+;                                           
 color:rgb(218, 80, 71);
 padding: 14px;
 
