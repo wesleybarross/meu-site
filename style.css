@@ -73,9 +73,8 @@ padding: 14px;
 
 figcaption{
 text-align:center;
-font-family: 'font-family: 'Rounds Black', sans-serif
-;                                           
-color:rgb(218, 80, 71);
+font-family: 'font-family: 'Rounds Black;                                           
+color:rgb(0, 0, 0);
 padding: 14px;
 
 }
@@ -105,5 +104,5 @@ footer{
     padding: 05px 25px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
-
+    
 }
