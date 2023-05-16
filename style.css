@@ -1,4 +1,3 @@
-
 body{
 
     background-image:url(img/fundo1.jpeg);
@@ -74,8 +73,9 @@ padding: 14px;
 
 figcaption{
 text-align:center;
-font-family: 'font-family: 'Rounds Black;                                           
-color:rgb(12, 12, 12);
+font-family: 'font-family: 'Rounds Black', sans-serif
+;                                           
+color:rgb(218, 80, 71);
 padding: 14px;
 
 }
