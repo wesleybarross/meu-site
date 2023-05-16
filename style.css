@@ -1,3 +1,4 @@
+
 body{
 
     background-image:url(img/fundo1.jpeg);
@@ -36,6 +37,7 @@ color: var(--cor-link);
 text-align:center;                                          
 color:rgb(218, 80, 71);
 padding: 14px;
+
 }
 
 
@@ -73,8 +75,8 @@ padding: 14px;
 
 figcaption{
 text-align:center;
-font-family: 'font-family: 'Rounds Black;                                           
-color:rgb(0, 0, 0);
+font-family: Rounds Black;                                        
+color:rgb(218, 80, 71);
 padding: 14px;
 
 }
@@ -104,5 +106,5 @@ footer{
     padding: 05px 25px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
-    
+
 }
