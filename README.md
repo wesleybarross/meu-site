@@ -1,6 +1,6 @@
 # Portfólio de Wesley Barros
 
-Bem-vindo ao meu portfólio! Este projeto foi desenvolvido como parte do meu primeiro projeto prático em sistemas com HTML, CSS e JavaScript.
+Bem-vindo ao meu portfólio! Este projeto foi desenvolvido como parte do meu primeiro projeto prático da faculdade em sistemas com HTML, CSS e JavaScript.
 
 ## Status do Projeto
 
@@ -13,7 +13,11 @@ Bem-vindo ao meu portfólio! Este projeto foi desenvolvido como parte do meu pri
 
 ## Descrição do Serviço Prestado
 
-Este é um portfólio online destinado a apresentar e destacar meus projetos de desenvolvimento de software. As linguagens principais utilizadas foram HTML, CSS e JavaScript.
+Este é um portfólio online destinado a apresentar e destacar meus projetos de desenvolvimento de software. As linguagens principais utilizadas foram;
+
+> * HTML
+> * CSS
+> * JavaScript
 
 ## Objetivo
 
