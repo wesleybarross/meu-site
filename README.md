@@ -1,6 +1,6 @@
 # Portfólio de Wesley Barros
 
-Bem-vindo ao meu portfólio! Este projeto foi desenvolvido como parte do meu primeiro projeto prático da faculdade em sistemas com HTML, CSS e JavaScript.
+Bem-vindo ao meu portfólio! Este projeto foi desenvolvido como parte do meu primeiro projeto prático na faculdade em sistemas, utilizando HTML, CSS e JavaScript.
 
 ## Status do Projeto
 
